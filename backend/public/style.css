@@ -1,0 +1,26 @@
+nav{
+    background-color: #563d7c;
+    color:#fff;
+    padding:30px 60px;
+    
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+}
+
+nav li a{
+    color: azure;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 1rem;
+}
+nav li a:hover{
+    color: black;
+    text-decoration: none;
+}
